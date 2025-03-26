@@ -7,7 +7,7 @@ jobs:
       matrix:
         # Use these Java versions
         java: [
-          21
+          17
         ]
         # and run on Linux
         os: [ubuntu-22.04]
