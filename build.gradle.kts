@@ -48,3 +48,7 @@ tasks.processResources {
         expand(props)
     }
 }
+
+tasks.jar {
+    enabled = false
+}
