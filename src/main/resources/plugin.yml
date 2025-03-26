@@ -1,0 +1,12 @@
+name: ReviveDupes
+version: '${version}'
+main: strictpvp.reviveDupes.ReviveDupes
+api-version: '1.21'
+authors: [ strict_pvp ]
+folia-supported: true
+
+commands:
+  reloadconfig:
+    description: reload dupe config
+    permission: op
+    usage: /reloadconfig

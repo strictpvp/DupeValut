@@ -1,0 +1,23 @@
+Anvil-Dupe:
+  state: false
+  multiple: 2
+  chance: 100
+  invShouldFull: false # it checks player inventory is full
+AutoCraft-Dupe:
+  state: false
+  multiple: 2
+  chance: 100
+  onlyStackable: false # block unStackable items such as tools, armors... etc
+  allowOverStack: false
+  maxStack: 64 # 99 is max of minecraft nbt save limit
+ItemFrame-Dupe:
+  state: false
+  multiple: 2
+  chance: 100
+VehicleQuit-Dupe:
+  state: false
+  forceChestAccess: true # it allows open chest, although other players ride the vehicle
+  donkey: true
+  mule: true
+  llama: true
+  chestBoat: true
