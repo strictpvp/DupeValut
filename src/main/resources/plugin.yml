@@ -1,7 +1,7 @@
-name: ReviveDupes
+name: DupeVault
 version: '${version}'
-main: strictpvp.reviveDupes.ReviveDupes
-api-version: '1.21'
+main: strictpvp.dupeVault.DupeVault
+api-version: '1.13'
 authors: [ strict_pvp ]
 folia-supported: true
 
